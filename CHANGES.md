@@ -5,7 +5,7 @@
 
  * Add `package-lock.json` (Thomas Cort)
 
- * Fork modern-syslog and rename to postmodern-syslog (Thomas Cort)
+ * Fork modern-syslog and rename to @ssimicro/postmodern-syslog (Thomas Cort)
 
 2019-05-06, Version 1.2.0
 =========================

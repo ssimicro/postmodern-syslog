@@ -18,7 +18,7 @@ Default mask depends on system.
 
 ## Installation
 
-    npm install --save postmodern-syslog
+    npm install --save @ssimicro/postmodern-syslog
 
 ## API
 

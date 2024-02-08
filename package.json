@@ -1,5 +1,5 @@
 {
-  "name": "postmodern-syslog",
+  "name": "@ssimicro/postmodern-syslog",
   "version": "2.0.0",
   "description": "postmodern syslog - streaming, async, uses nan",
   "main": "index.js",
