@@ -3,7 +3,9 @@
 
  * Support node up to and including 20.x (Thomas Cort)
 
- * Fork strongloop/modern-syslog and rename to postmodern-syslog (Thomas Cort)
+ * Add `package-lock.json` (Thomas Cort)
+
+ * Fork modern-syslog and rename to postmodern-syslog (Thomas Cort)
 
 2019-05-06, Version 1.2.0
 =========================
