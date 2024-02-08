@@ -1,7 +1,7 @@
 {
-  "name": "modern-syslog",
+  "name": "postmodern-syslog",
   "version": "1.2.0",
-  "description": "modern syslog - streaming, async, uses nan",
+  "description": "postmodern syslog - streaming, async, uses nan",
   "main": "index.js",
   "os": [
     "!win32"
@@ -10,13 +10,13 @@
     "test": "tap test/test-*.js"
   },
   "author": "Sam Roberts <rsam@ca.ibm.com>",
-  "homepage": "http://github.com/strongloop/modern-syslog",
+  "homepage": "http://github.com/ssimicro/postmodern-syslog",
   "repository": {
     "type": "git",
-    "url": "git@github.com:strongloop/modern-syslog.git"
+    "url": "git@github.com:/ssimicro/postmodern-syslog.git"
   },
   "bugs": {
-    "url": "https://github.com/strongloop/modern-syslog/issues"
+    "url": "https://github.com/ssimicro/postmodern-syslog/issues"
   },
   "license": "MIT",
   "devDependencies": {

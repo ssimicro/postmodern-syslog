@@ -1,11 +1,11 @@
 // Copyright IBM Corp. 2015,2016. All Rights Reserved.
-// Node module: modern-syslog
+// Node module: postmodern-syslog
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
 
 'use strict';
 
-var debug = require('debug')('modern-syslog:test');
+var debug = require('debug')('postmodern-syslog:test');
 var syslog = require('../');
 var tap = require('tap');
 

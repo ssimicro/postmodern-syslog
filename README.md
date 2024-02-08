@@ -1,6 +1,9 @@
-# modern syslog - streaming, async, native, uses nan
+# postmodern syslog - streaming, async, native, uses nan
 
-This is the only syslog library that:
+This is a fork of the strongloop/modern-syslog code base, updated for recent
+versions of node. No API changes have been made.
+
+This is a syslog library that:
 
 - Uses native bindings to the libc syslog API.
 - Is async, because the libc APIs can block on localhost IPC under load, but
@@ -15,7 +18,7 @@ Default mask depends on system.
 
 ## Installation
 
-    npm install --save modern-syslog
+    npm install --save postmodern-syslog
 
 ## API
 

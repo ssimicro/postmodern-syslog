@@ -1,3 +1,10 @@
+2024-02-08, Version 2.0.0
+=========================
+
+ * Support node up to and including 20.x (Thomas Cort)
+
+ * Fork strongloop/modern-syslog and rename to postmodern-syslog (Thomas Cort)
+
 2019-05-06, Version 1.2.0
 =========================
 
