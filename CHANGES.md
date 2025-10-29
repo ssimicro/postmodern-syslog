@@ -1,3 +1,8 @@
+2025-10-29, Version 3.0.0
+=========================
+
+ * Support node up to and including 24.x (Thomas Cort)
+
 2024-02-08, Version 2.0.0
 =========================
 
