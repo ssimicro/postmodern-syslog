@@ -21,10 +21,10 @@
   "license": "MIT",
   "devDependencies": {
     "debug": "^4.4.3",
-    "tap": "^21.1.1"
+    "tap": "^21.7.1"
   },
   "dependencies": {
-    "nan": "^2.23.0"
+    "nan": "^2.26.2"
   },
   "tags": [
     "log",
